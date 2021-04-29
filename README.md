@@ -1,7 +1,7 @@
 # adam-and-eve
 
 <h1> 
-  Going against impossible odds to create a humanoid robot solution to serve military, defence and other areas
+  Going against impossible odds to create a humanoid robot solution to serve a wide range of industries.  
 </h1>
 
 <h6>
